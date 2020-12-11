@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angularfire-84f24": {
+      "hosting": {
+        "angularfire": [
+          "angularfire-84f24"
+        ]
+      }
+    }
+  }
+}
